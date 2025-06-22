@@ -47,11 +47,3 @@ I'm a self-taught passionate Full Stack Developer from BD
 <a href="https://github.com/SaimoomNbs/Ecommerce-in-laravel-8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaimoomNbs&repo=Ecommerce-in-laravel-8&cache_seconds=86400&theme=buefy&show_icons=true" />
 </a>
-
-<br />
-
-<a href="https://www.linkedin.com/in/saimoomshovon59">
-  <img align="right" alt="Saimoom Shovon | LinkedIn" width="21px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
-</a>
-
-
