@@ -35,7 +35,7 @@ I'm a self-taught passionate Full Stack Developer from BD
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaimoomNbs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimoomNbs&layout=compact&theme=buefy&hide_border=true" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaimoomNbs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saimoom's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimoomNbs&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
