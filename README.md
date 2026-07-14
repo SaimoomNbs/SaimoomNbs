@@ -10,8 +10,6 @@ Here are some ideas to know me:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaimoomNbs&show_icons=true&theme=vision-friendly-dark)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SaimoomNbs)
 
 
