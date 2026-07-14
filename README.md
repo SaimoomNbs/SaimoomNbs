@@ -1,6 +1,21 @@
-<div align="center">
-  <h1>Hi, I'm Saimoom Shovon 👋</h1>
-</div>
+### Hi, I'm Saimoom Shovon 👋
+
+
+Here are some ideas to know me:
+
+- 💼 Full Stack Developer [LinkedIn](https://www.linkedin.com/in/saimoomshovon59/)
+- 📈 Built Laravel Projects, UI Design and more on GitHub
+- ❤️ I love writing Script, and building fun experiments on type-level
+- 📫 How to reach me: [saimoomshovon59@gmail.com](mailto:saimoomshovon59@gmail.com)
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaimoomNbs&show_icons=true&theme=vision-friendly-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaimoomNbs)
+
+
+### MyStack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![.Net](https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
@@ -24,35 +39,3 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-<br />
-<br />
-
-I'm a self-taught passionate Full Stack Developer from BD
-
-**About me**
-
-- 💼 Full Stack Developer  [LinkedIn](https://www.linkedin.com/in/saimoomshovon59/)
-
-- 📈 Built Laravel Ecommerce, UI Design and more on GitHub
-
-- ❤️ I love writing Script, and building fun experiments on type-level
-
-- 💬 Ask me about anything [Send an email](mailto:saimoomshovon59@gmail.com)
-
-
-<br />
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaimoomNbs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saimoom's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimoomNbs&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
-
-<br />
-
-#### Top Repositories
-
-
-<a href="https://github.com/SaimoomNbs/Ecommerce-in-laravel-8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SaimoomNbs&repo=Ecommerce-in-laravel-8&cache_seconds=86400&theme=buefy&show_icons=true" />
-</a>
